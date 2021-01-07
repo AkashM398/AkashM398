@@ -4,9 +4,9 @@
 </div>
 
 <p align='center'>
-   <a href="https://www.linkedin.com/in/akashm398"><img height="30" src=""></a>&nbsp;&nbsp;
-<a href="https://twitter.com/akashm398"><img height="30" src=""></a>&nbsp;&nbsp;
-<a href="https://instagram.com"><img height="30" src=""></a>&nbsp;&nbsp;
+   <a href="https://www.linkedin.com/in/akashm398"><img height="30" src="https://raw.githubusercontent.com/AkashM398/AkashM398/master/images/linkedin.png"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/akashm398"><img height="30" src="https://raw.githubusercontent.com/AkashM398/AkashM398/master/images/twitter.png"></a>&nbsp;&nbsp;
+<a href="https://instagram.com"><img height="30" src="https://raw.githubusercontent.com/AkashM398/AkashM398/master/images/insta.png"></a>&nbsp;&nbsp;
  </p>
 
 
@@ -29,7 +29,7 @@
  
  - I love to break security, that's fun, Red team CTF player :shushing_face:
  
- - Connect? lets get social 👉🏼[<img src="" >](https://instragram.com)
+ - Connect? lets get social 👉🏼[<img height="20" src="https://raw.githubusercontent.com/AkashM398/AkashM398/master/images/insta.png" >](https://instragram.com)
  
  <p align="center">
   <h4> Frontend | Typescript | UI Design | CTF Player </h4>
@@ -63,7 +63,7 @@
 <br />
 
 <p align="center">
-   <img src="" />
+   <img src="https://raw.githubusercontent.com/AkashM398/AkashM398/master/images/nosleep.jpg" />
    </p>
    
 <br />
