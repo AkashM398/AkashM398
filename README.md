@@ -17,11 +17,6 @@
 <div align="center">
 <h3>Make sure to visit my website - <a href="https://akashbuild.tech">akashbuild.tech</a></h3>
 </div>
-
-<h5 align="center">
-   <i>⚡️Be proud of your work, recruiters won't appreciate them easily.⚡️</i>
-  </h5>
-
 <br />
 
 <p align="center">
